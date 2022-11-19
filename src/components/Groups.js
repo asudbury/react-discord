@@ -19,6 +19,7 @@ const Groups = () => {
             <img
               src={dc}
               className='w-12 h-12 rounded-full text-white brightness-[80%]'
+              alt=""
             />
           </div>{' '}
         </Link>
@@ -31,7 +32,7 @@ const Groups = () => {
         <div className='space-y-2 pt-4'>
           {groups.map((group, i) => (
             <div className='w-14 h-14 flex cursor-pointer' key={i}>
-              <img src={group} className='object-cover rounded-full' />
+              <img src={group} className='object-cover rounded-full' alt="" />
             </div>
           ))}
         </div>
