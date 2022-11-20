@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-discord/static/css/main.fb74a644.css",
-    "main.js": "/react-discord/static/js/main.cd56b5e8.js",
+    "main.js": "/react-discord/static/js/main.b700d3eb.js",
     "static/js/787.257041bd.chunk.js": "/react-discord/static/js/787.257041bd.chunk.js",
     "static/media/hero2.webp": "/react-discord/static/media/hero2.331fb7aae723b95e3614.webp",
     "static/media/background2.jpg": "/react-discord/static/media/background2.320b85707019e0619bf8.jpg",
@@ -13,11 +13,11 @@
     "static/media/dc.png": "/react-discord/static/media/dc.4e1df94125c65655eff3.png",
     "index.html": "/react-discord/index.html",
     "main.fb74a644.css.map": "/react-discord/static/css/main.fb74a644.css.map",
-    "main.cd56b5e8.js.map": "/react-discord/static/js/main.cd56b5e8.js.map",
+    "main.b700d3eb.js.map": "/react-discord/static/js/main.b700d3eb.js.map",
     "787.257041bd.chunk.js.map": "/react-discord/static/js/787.257041bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb74a644.css",
-    "static/js/main.cd56b5e8.js"
+    "static/js/main.b700d3eb.js"
   ]
 }
