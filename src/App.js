@@ -1,13 +1,13 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import CardPage from "./components/CardPage";
-import Home from "./components/Home";
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import CardPage from './components/CardPage';
+import Home from './components/Home';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/card" element={<CardPage />} />
+        <Route path='/' element={<Home />} />
+        <Route path='/card' element={<CardPage />} />
       </Routes>
     </Router>
   );
